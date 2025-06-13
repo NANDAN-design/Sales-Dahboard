@@ -1,4 +1,4 @@
-# Sales-Dahboard
+# Sales-Dashboard
 All the graphical respresentation in the dashboard in done on the Superstore data and solely using Power BI.
 The insights are given in the interactive dashboard.
 Using Power BI, the interactive dashboard is created.
